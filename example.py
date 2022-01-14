@@ -1,3 +1,6 @@
+# Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# SPDX-License-Identifier: Apache-2.0
+
 """
 Generate a random problem to solve
 A is a list of lists of integers, representing the connected nodes for each node in the graph
