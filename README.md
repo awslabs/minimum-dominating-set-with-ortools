@@ -47,7 +47,9 @@ Nota Bene:
 
 - We observed fast and optimal solutions in our tests, but this is not 
   guaranteed due to the complexity of the problem.
-- For a vertex to be selected, all its groups must be selected (AND formulation). An OR formulation is possible (at least one of the group must be selected) and leads to a similar but different solution.
+- For a vertex to be selected, all its groups must be selected (AND formulation). 
+  An OR formulation is possible (at least one of the group must be selected) and 
+  leads to a similar but different solution.
 - We implemented the weighted version of the minimization: each group 
   is associated with a weight, and the weighted sum is minimized.
 - The input parameter A is a list of lists, representing the adjacency 
